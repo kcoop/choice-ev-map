@@ -1,0 +1,29 @@
+{
+  "name": "choice-ev-map",
+  "version": "1.0.0",
+  "description": "Map of Choice Hotels with EV charging stations across the US",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "fetch-stations": "npx tsx scripts/fetch-stations.ts"
+  },
+  "dependencies": {
+    "leaflet": "^1.9.4",
+    "leaflet.markercluster": "^1.5.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/leaflet": "^1.9.14",
+    "@types/leaflet.markercluster": "^1.5.4",
+    "@types/node": "^22.0.0",
+    "@types/react": "^18.3.1",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.1",
+    "tsx": "^4.19.1",
+    "typescript": "^5.5.3",
+    "vite": "^8.0.3"
+  }
+}
