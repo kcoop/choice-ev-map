@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-05T05:42:27.815Z",
+  "fetchedAt": "2026-04-05T05:50:52.792Z",
   "totalCount": 6274,
   "evCount": 562,
   "hotels": [
@@ -50973,8 +50973,8 @@
       "evNetwork": "BP_PULSE",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-04",
-      "evUpdatedAt": "2026-04-04T05:54:24Z"
+      "evLastConfirmed": "2026-04-05",
+      "evUpdatedAt": "2026-04-05T05:45:03Z"
     },
     {
       "osmId": "way/391119433",
