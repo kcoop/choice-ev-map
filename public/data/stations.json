@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-04-06T04:09:03.151Z",
+  "fetchedAt": "2026-04-07T04:05:02.782Z",
   "totalCount": 6275,
   "evCount": 561,
   "hotels": [
@@ -531,8 +531,8 @@
       "evNetwork": "Electrify America",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T04:41:38Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T04:47:53Z"
     },
     {
       "osmId": "node/1560936066",
@@ -773,8 +773,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T02:28:08Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T02:22:59Z"
     },
     {
       "osmId": "node/1932506874",
@@ -1760,8 +1760,8 @@
       "evNetwork": "ChargePoint Network, Blink Network",
       "evPricing": "Free",
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T02:10:00Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T02:02:20Z"
     },
     {
       "osmId": "node/4054273921",
@@ -2302,8 +2302,8 @@
       "evNetwork": "CHARGELAB",
       "evPricing": null,
       "evHours": null,
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T06:58:53Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T07:05:34Z"
     },
     {
       "osmId": "node/4095932156",
@@ -2324,8 +2324,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T01:26:03Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T01:22:21Z"
     },
     {
       "osmId": "node/4098312214",
@@ -2488,8 +2488,8 @@
       "evNetwork": "Blink Network",
       "evPricing": "$0.00-$2.00/Hr Variable Parking Fee, $0.75/kWh Energy Fee",
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T00:36:46Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T00:42:42Z"
     },
     {
       "osmId": "node/4116159697",
@@ -3052,8 +3052,8 @@
       "evNetwork": "Blink Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T00:19:32Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T00:27:00Z"
     },
     {
       "osmId": "node/4534885843",
@@ -4137,8 +4137,8 @@
       "evNetwork": "ELECTRIC_ERA",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T06:40:17Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T06:46:32Z"
     },
     {
       "osmId": "node/9451450433",
@@ -4725,8 +4725,8 @@
       "evNetwork": "Blink Network",
       "evPricing": "Free",
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T00:20:03Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T00:27:31Z"
     },
     {
       "osmId": "node/11364643237",
@@ -5487,8 +5487,8 @@
       "evNetwork": "Blink Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T00:21:48Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T00:29:08Z"
     },
     {
       "osmId": "node/12214782244",
@@ -6029,8 +6029,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T03:58:31Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T03:50:07Z"
     },
     {
       "osmId": "node/12889679327",
@@ -6231,8 +6231,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T04:01:58Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T03:53:11Z"
     },
     {
       "osmId": "node/13017503453",
@@ -6395,8 +6395,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T03:22:23Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T03:15:20Z"
     },
     {
       "osmId": "node/13116646820",
@@ -6977,8 +6977,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T04:04:12Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T04:10:15Z"
     },
     {
       "osmId": "node/13541082708",
@@ -7679,8 +7679,8 @@
       "evNetwork": "Blink Network",
       "evPricing": "Free",
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T00:05:41Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T00:14:49Z"
     },
     {
       "osmId": "way/80436821",
@@ -8001,8 +8001,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T03:57:14Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T03:48:55Z"
     },
     {
       "osmId": "way/106093640",
@@ -8070,7 +8070,7 @@
       "osmId": "way/108493888",
       "name": "Radisson",
       "brand": "Radisson",
-      "address": "",
+      "address": "8800 Wickham Road",
       "city": "",
       "state": "",
       "zip": "",
@@ -8687,8 +8687,8 @@
       "evNetwork": "RED_E",
       "evPricing": null,
       "evHours": null,
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T06:45:10Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T06:51:24Z"
     },
     {
       "osmId": "way/144178547",
@@ -9010,8 +9010,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T02:18:15Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T02:13:32Z"
     },
     {
       "osmId": "way/165764464",
@@ -10058,8 +10058,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T01:54:18Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T01:48:24Z"
     },
     {
       "osmId": "way/213718997",
@@ -10080,8 +10080,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T03:10:47Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T03:03:53Z"
     },
     {
       "osmId": "way/213984971",
@@ -10753,8 +10753,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T02:51:01Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T02:45:22Z"
     },
     {
       "osmId": "way/244030739",
@@ -11980,8 +11980,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T01:38:30Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T01:34:44Z"
     },
     {
       "osmId": "way/305642460",
@@ -12103,8 +12103,8 @@
       "evNetwork": "EV Connect",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T05:00:36Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T05:07:29Z"
     },
     {
       "osmId": "way/312412112",
@@ -12205,8 +12205,8 @@
       "evNetwork": "Blink Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T00:10:14Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T00:18:45Z"
     },
     {
       "osmId": "way/318046559",
@@ -12287,8 +12287,8 @@
       "evNetwork": "Blink Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T00:52:26Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T00:56:53Z"
     },
     {
       "osmId": "way/322818833",
@@ -13075,8 +13075,8 @@
       "evNetwork": "Blink Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T00:27:32Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T00:34:06Z"
     },
     {
       "osmId": "way/372417857",
@@ -13402,8 +13402,8 @@
       "evNetwork": "CHARGELAB",
       "evPricing": null,
       "evHours": null,
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T06:58:52Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T07:05:32Z"
     },
     {
       "osmId": "way/391140586",
@@ -13586,8 +13586,8 @@
       "evNetwork": "FLO",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T05:21:41Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T05:28:01Z"
     },
     {
       "osmId": "way/398437631",
@@ -13713,8 +13713,8 @@
       "evNetwork": "Electrify America, Tesla Destination",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T04:43:00Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T04:49:23Z"
     },
     {
       "osmId": "way/405675707",
@@ -14283,8 +14283,8 @@
       "evNetwork": "EVCS",
       "evPricing": null,
       "evHours": null,
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T05:47:18Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T05:53:06Z"
     },
     {
       "osmId": "way/439315241",
@@ -14387,8 +14387,8 @@
       "evNetwork": "EV Connect",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T04:59:09Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T05:06:05Z"
     },
     {
       "osmId": "way/445907113",
@@ -15655,8 +15655,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T02:19:44Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T02:14:53Z"
     },
     {
       "osmId": "way/524969235",
@@ -16140,8 +16140,8 @@
       "evNetwork": "RED_E",
       "evPricing": null,
       "evHours": null,
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T06:43:54Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T06:49:51Z"
     },
     {
       "osmId": "way/555053721",
@@ -16262,8 +16262,8 @@
       "evNetwork": "CHARGESMART_EV",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T06:05:45Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T06:11:16Z"
     },
     {
       "osmId": "way/563159234",
@@ -16873,8 +16873,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T03:01:14Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T02:55:06Z"
     },
     {
       "osmId": "way/607988286",
@@ -18982,8 +18982,8 @@
       "evNetwork": "eVgo Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-06T00:00:41Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-07T00:00:42Z"
     },
     {
       "osmId": "way/791188161",
@@ -20504,8 +20504,8 @@
       "evNetwork": "Blink Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T00:24:40Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T00:31:29Z"
     },
     {
       "osmId": "way/917313766",
@@ -20586,8 +20586,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T02:18:41Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T02:13:53Z"
     },
     {
       "osmId": "way/918096704",
@@ -21877,8 +21877,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T03:11:36Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T03:04:41Z"
     },
     {
       "osmId": "way/1051637109",
@@ -24637,8 +24637,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T02:13:01Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T02:06:16Z"
     },
     {
       "osmId": "way/1316292998",
@@ -24699,8 +24699,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T03:40:11Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T03:32:23Z"
     },
     {
       "osmId": "way/1319947488",
@@ -24961,8 +24961,8 @@
       "evNetwork": "FCN",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T05:16:06Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T05:22:26Z"
     },
     {
       "osmId": "way/1361004236",
@@ -26050,8 +26050,8 @@
       "evNetwork": "Tesla, EVRANGE",
       "evPricing": null,
       "evHours": "24 hours daily. Please check Tesla's online station map to see if an adapter is required at this location.",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T05:10:04Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T05:16:32Z"
     },
     {
       "osmId": "relation/11498008",
@@ -27360,8 +27360,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T01:37:53Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T01:34:03Z"
     },
     {
       "osmId": "node/895188645",
@@ -28031,8 +28031,8 @@
       "evNetwork": "CHARGEUP",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T05:12:39Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T05:19:02Z"
     },
     {
       "osmId": "way/214944626",
@@ -31675,8 +31675,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T01:59:40Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T01:53:18Z"
     },
     {
       "osmId": "way/1222458587",
@@ -32769,8 +32769,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T01:45:44Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T01:41:41Z"
     },
     {
       "osmId": "way/903252958",
@@ -32791,8 +32791,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T01:45:44Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T01:41:41Z"
     },
     {
       "osmId": "way/1053406491",
@@ -32933,8 +32933,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T02:51:34Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T02:45:57Z"
     },
     {
       "osmId": "way/979691669",
@@ -32956,8 +32956,8 @@
       "evNetwork": "Tesla Destination, ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T02:01:14Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T01:54:35Z"
     },
     {
       "osmId": "way/1421294460",
@@ -33121,8 +33121,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T02:35:06Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T02:29:39Z"
     },
     {
       "osmId": "way/323401814",
@@ -33243,8 +33243,8 @@
       "evNetwork": "NOODOE",
       "evPricing": null,
       "evHours": null,
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T05:51:49Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T05:57:42Z"
     },
     {
       "osmId": "way/1489342055",
@@ -33605,8 +33605,8 @@
       "evNetwork": "NOODOE",
       "evPricing": null,
       "evHours": null,
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T05:48:09Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T05:54:00Z"
     },
     {
       "osmId": "way/1227354987",
@@ -33950,8 +33950,8 @@
       "evNetwork": "Electrify America",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T04:41:14Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T04:47:28Z"
     },
     {
       "osmId": "way/978876903",
@@ -34012,8 +34012,8 @@
       "evNetwork": "NOODOE",
       "evPricing": null,
       "evHours": null,
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T05:48:08Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T05:53:59Z"
     },
     {
       "osmId": "way/663945971",
@@ -34197,8 +34197,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T03:22:43Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T03:15:39Z"
     },
     {
       "osmId": "way/563495677",
@@ -34582,8 +34582,8 @@
       "evNetwork": "Blink Network",
       "evPricing": "Free",
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T00:37:26Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T00:43:19Z"
     },
     {
       "osmId": "way/274175015",
@@ -35246,8 +35246,8 @@
       "evNetwork": "RIVIAN_ADVENTURE",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T05:04:37Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T05:11:07Z"
     },
     {
       "osmId": "way/1100665356",
@@ -35268,8 +35268,8 @@
       "evNetwork": "EVGATEWAY",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T06:11:56Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T06:17:04Z"
     },
     {
       "osmId": "way/1100665357",
@@ -35411,8 +35411,8 @@
       "evNetwork": "eVgo Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T23:57:34Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T23:57:58Z"
     },
     {
       "osmId": "way/1227202334",
@@ -36183,8 +36183,8 @@
       "evNetwork": "Tesla Destination, EVCS",
       "evPricing": null,
       "evHours": null,
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T05:48:30Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T05:54:20Z"
     },
     {
       "osmId": "way/854455868",
@@ -36407,8 +36407,8 @@
       "evNetwork": "SHELL_RECHARGE",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T04:37:57Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T04:44:17Z"
     },
     {
       "osmId": "node/8032544970",
@@ -36449,8 +36449,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T02:23:10Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T02:18:01Z"
     },
     {
       "osmId": "way/925048726",
@@ -36674,8 +36674,8 @@
       "evNetwork": "EVCS",
       "evPricing": null,
       "evHours": null,
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T05:50:58Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T05:56:53Z"
     },
     {
       "osmId": "way/407808149",
@@ -36756,8 +36756,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T02:45:40Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T02:40:09Z"
     },
     {
       "osmId": "way/1227144381",
@@ -37300,8 +37300,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T01:09:03Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T01:05:12Z"
     },
     {
       "osmId": "relation/6302575",
@@ -37666,8 +37666,8 @@
       "evNetwork": "EVCS",
       "evPricing": null,
       "evHours": null,
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T05:48:46Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T05:54:35Z"
     },
     {
       "osmId": "way/925192956",
@@ -37768,8 +37768,8 @@
       "evNetwork": "Electrify America",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T04:42:14Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T04:48:33Z"
     },
     {
       "osmId": "way/429627751",
@@ -38584,8 +38584,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T02:29:56Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T02:24:50Z"
     },
     {
       "osmId": "way/925060642",
@@ -38606,8 +38606,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T02:06:37Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T01:59:07Z"
     },
     {
       "osmId": "way/925086432",
@@ -39290,8 +39290,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T02:33:44Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T02:28:12Z"
     },
     {
       "osmId": "way/35557769",
@@ -39335,8 +39335,8 @@
       "evNetwork": "EVGATEWAY",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T06:11:22Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T06:16:10Z"
     },
     {
       "osmId": "way/194189987",
@@ -39499,8 +39499,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T02:42:22Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T02:37:18Z"
     },
     {
       "osmId": "way/470695520",
@@ -40148,8 +40148,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T02:34:38Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T02:29:11Z"
     },
     {
       "osmId": "way/423891433",
@@ -40230,8 +40230,8 @@
       "evNetwork": "EVGATEWAY",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T06:11:48Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T06:17:06Z"
     },
     {
       "osmId": "way/752709907",
@@ -40612,8 +40612,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T03:11:14Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T03:04:21Z"
     },
     {
       "osmId": "way/775440622",
@@ -40655,8 +40655,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T02:18:22Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T02:13:38Z"
     },
     {
       "osmId": "way/89823404",
@@ -41749,8 +41749,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T01:43:23Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T01:39:46Z"
     },
     {
       "osmId": "way/496930032",
@@ -42783,8 +42783,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T02:10:53Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T02:03:22Z"
     },
     {
       "osmId": "way/548033638",
@@ -43005,8 +43005,8 @@
       "evNetwork": "Blink Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T00:42:51Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T00:48:13Z"
     },
     {
       "osmId": "way/350692657",
@@ -45256,8 +45256,8 @@
       "evNetwork": "Blink Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T00:30:13Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T00:36:44Z"
     },
     {
       "osmId": "way/538632310",
@@ -46913,8 +46913,8 @@
       "evNetwork": "Blink Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T00:20:14Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T00:27:39Z"
     },
     {
       "osmId": "way/354150777",
@@ -47500,8 +47500,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T02:00:31Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T01:54:00Z"
     },
     {
       "osmId": "way/538623088",
@@ -48273,8 +48273,8 @@
       "evNetwork": "EV Connect",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T05:00:36Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T05:07:29Z"
     },
     {
       "osmId": "node/11879279022",
@@ -48797,8 +48797,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T03:54:45Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T03:46:22Z"
     },
     {
       "osmId": "way/490952185",
@@ -49039,8 +49039,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T02:32:59Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T02:27:27Z"
     },
     {
       "osmId": "way/482026120",
@@ -49562,8 +49562,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T02:46:36Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T03:56:40Z"
     },
     {
       "osmId": "way/982076288",
@@ -50947,8 +50947,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T02:15:33Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T02:10:15Z"
     },
     {
       "osmId": "way/932852930",
@@ -50970,8 +50970,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T02:15:33Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T02:10:15Z"
     },
     {
       "osmId": "way/1228564692",
@@ -50993,8 +50993,8 @@
       "evNetwork": "BP_PULSE",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T05:45:03Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T05:50:54Z"
     },
     {
       "osmId": "way/391119433",
@@ -52162,8 +52162,8 @@
       "evNetwork": "Blink Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T00:09:58Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T00:18:32Z"
     },
     {
       "osmId": "way/983289315",
@@ -52286,8 +52286,8 @@
       "evNetwork": "NOODOE",
       "evPricing": null,
       "evHours": null,
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T05:52:15Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T05:58:07Z"
     },
     {
       "osmId": "way/905925644",
@@ -52673,8 +52673,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T02:18:26Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T02:13:41Z"
     },
     {
       "osmId": "way/847300633",
@@ -53891,8 +53891,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T02:18:15Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T02:13:32Z"
     },
     {
       "osmId": "way/191682880",
@@ -55402,8 +55402,8 @@
       "evNetwork": "Blink Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T00:19:36Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T00:27:03Z"
     },
     {
       "osmId": "way/1026487822",
@@ -55946,8 +55946,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T02:32:23Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T02:26:51Z"
     },
     {
       "osmId": "way/236319670",
@@ -55989,8 +55989,8 @@
       "evNetwork": "ChargePoint Network, Tesla Destination",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T02:37:04Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T02:31:47Z"
     },
     {
       "osmId": "way/164021879",
@@ -57582,8 +57582,8 @@
       "evNetwork": "RED_E",
       "evPricing": null,
       "evHours": null,
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T06:46:08Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T06:52:49Z"
     },
     {
       "osmId": "way/362681354",
@@ -57784,8 +57784,8 @@
       "evNetwork": "NOODOE",
       "evPricing": null,
       "evHours": null,
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T05:51:59Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T05:57:52Z"
     },
     {
       "osmId": "way/1349338801",
@@ -57847,8 +57847,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T04:03:22Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T03:54:36Z"
     },
     {
       "osmId": "node/6491410459",
@@ -58389,8 +58389,8 @@
       "evNetwork": "NOODOE",
       "evPricing": null,
       "evHours": null,
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T05:48:35Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T05:54:26Z"
     },
     {
       "osmId": "node/12342747863",
@@ -60374,8 +60374,8 @@
       "evNetwork": "VIALYNK",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T06:02:48Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T06:08:27Z"
     },
     {
       "osmId": "way/556316636",
@@ -60816,8 +60816,8 @@
       "evNetwork": "EV Connect",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T04:57:44Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T05:04:40Z"
     },
     {
       "osmId": "node/4647036582",
@@ -65426,8 +65426,8 @@
       "evNetwork": "ChargePoint Network, Tesla",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T02:26:51Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T02:21:20Z"
     },
     {
       "osmId": "way/29849745",
@@ -65508,8 +65508,8 @@
       "evNetwork": "RED_E",
       "evPricing": null,
       "evHours": null,
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T06:45:37Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T06:52:01Z"
     },
     {
       "osmId": "way/1144429556",
@@ -65530,8 +65530,8 @@
       "evNetwork": "Blink Network",
       "evPricing": "FREE",
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T00:39:43Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T00:45:32Z"
     },
     {
       "osmId": "way/216282093",
@@ -65612,8 +65612,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T03:17:08Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T03:10:09Z"
     },
     {
       "osmId": "way/214275032",
@@ -65734,8 +65734,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T01:25:38Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T01:21:50Z"
     },
     {
       "osmId": "way/196040608",
@@ -65816,8 +65816,8 @@
       "evNetwork": "Blink Network",
       "evPricing": "Free",
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T00:05:40Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T00:14:48Z"
     },
     {
       "osmId": "way/336344487",
@@ -66058,8 +66058,8 @@
       "evNetwork": "Blink Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T00:13:36Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T00:21:33Z"
     },
     {
       "osmId": "way/224193454",
@@ -66160,8 +66160,8 @@
       "evNetwork": "Blink Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T00:33:43Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T00:39:51Z"
     },
     {
       "osmId": "node/9943988614",
@@ -66364,8 +66364,8 @@
       "evNetwork": "Blink Network",
       "evPricing": "$0.49/kWh Energy Fee",
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T00:26:14Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T00:32:52Z"
     },
     {
       "osmId": "way/400279741",
@@ -66426,8 +66426,8 @@
       "evNetwork": "Blink Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T00:07:06Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T00:16:06Z"
     },
     {
       "osmId": "way/379491725",
@@ -66568,8 +66568,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T03:46:25Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T03:38:12Z"
     },
     {
       "osmId": "way/549560561",
@@ -66752,8 +66752,8 @@
       "evNetwork": "Blink Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T00:44:45Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T00:49:59Z"
     },
     {
       "osmId": "way/627340177",
@@ -66794,8 +66794,8 @@
       "evNetwork": "Blink Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T00:41:19Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T00:46:56Z"
     },
     {
       "osmId": "way/971256640",
@@ -66836,8 +66836,8 @@
       "evNetwork": "Blink Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T00:17:55Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T00:25:33Z"
     },
     {
       "osmId": "way/243245410",
@@ -66918,8 +66918,8 @@
       "evNetwork": "Blink Network, ChargePoint Network",
       "evPricing": "FREE",
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T02:38:43Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T02:33:27Z"
     },
     {
       "osmId": "way/217202777",
@@ -67140,8 +67140,8 @@
       "evNetwork": "Blink Network",
       "evPricing": "Free",
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T00:14:51Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T00:22:42Z"
     },
     {
       "osmId": "way/346100058",
@@ -67990,8 +67990,8 @@
       "evNetwork": "RED_E",
       "evPricing": null,
       "evHours": null,
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T06:44:16Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T06:50:21Z"
     },
     {
       "osmId": "node/11265401969",
@@ -68492,8 +68492,8 @@
       "evNetwork": "Blink Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T00:54:15Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T00:58:32Z"
     },
     {
       "osmId": "way/1117684464",
@@ -69140,8 +69140,8 @@
       "evNetwork": "RED_E",
       "evPricing": null,
       "evHours": null,
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T06:43:50Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T06:49:47Z"
     },
     {
       "osmId": "node/4139559782",
@@ -69663,8 +69663,8 @@
       "evNetwork": "eVgo Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-06T00:01:36Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-07T00:01:32Z"
     },
     {
       "osmId": "way/108275807",
@@ -70249,8 +70249,8 @@
       "evNetwork": "Electrify America",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T04:45:43Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T04:52:38Z"
     },
     {
       "osmId": "way/947569790",
@@ -70655,8 +70655,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T04:07:15Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T04:13:12Z"
     },
     {
       "osmId": "way/48538192",
@@ -71117,8 +71117,8 @@
       "evNetwork": "Blink Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T00:53:40Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T00:58:04Z"
     },
     {
       "osmId": "way/1393159125",
@@ -71239,8 +71239,8 @@
       "evNetwork": "Blink Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T00:55:38Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T00:59:49Z"
     },
     {
       "osmId": "way/529549496",
@@ -72673,8 +72673,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T03:07:01Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T03:00:04Z"
     },
     {
       "osmId": "way/195207915",
@@ -74079,8 +74079,8 @@
       "evNetwork": "RED_E",
       "evPricing": null,
       "evHours": null,
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T06:44:52Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T06:51:02Z"
     },
     {
       "osmId": "node/10860149221",
@@ -74101,8 +74101,8 @@
       "evNetwork": "RED_E",
       "evPricing": null,
       "evHours": null,
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T06:44:52Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T06:51:02Z"
     },
     {
       "osmId": "node/4244498860",
@@ -74324,8 +74324,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T03:10:42Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T03:03:48Z"
     },
     {
       "osmId": "way/166185425",
@@ -76235,8 +76235,8 @@
       "evNetwork": "ChargePoint Network, Tesla Destination",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T02:29:47Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T02:24:41Z"
     },
     {
       "osmId": "way/596644666",
@@ -76318,8 +76318,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T03:34:22Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T03:26:50Z"
     },
     {
       "osmId": "way/939184198",
@@ -76500,8 +76500,8 @@
       "evNetwork": "Blink Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T00:10:56Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T00:19:14Z"
     },
     {
       "osmId": "way/678986316",
@@ -77814,8 +77814,8 @@
       "evNetwork": "Blink Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T00:32:27Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T00:38:44Z"
     },
     {
       "osmId": "way/445304482",
@@ -77837,8 +77837,8 @@
       "evNetwork": "Blink Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T00:32:27Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T00:38:44Z"
     },
     {
       "osmId": "way/936702481",
@@ -80190,8 +80190,8 @@
       "evNetwork": "Blink Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T00:16:17Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T00:23:59Z"
     },
     {
       "osmId": "way/313692162",
@@ -82184,8 +82184,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T02:51:34Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T02:45:57Z"
     },
     {
       "osmId": "node/3845415920",
@@ -82268,8 +82268,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T02:48:55Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T02:43:09Z"
     },
     {
       "osmId": "node/3816385425",
@@ -82872,8 +82872,8 @@
       "evNetwork": "EVGATEWAY",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T06:10:51Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T06:16:27Z"
     },
     {
       "osmId": "way/948545683",
@@ -83095,8 +83095,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T03:52:38Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T03:44:11Z"
     },
     {
       "osmId": "node/2276410851",
@@ -84184,8 +84184,8 @@
       "evNetwork": "EVGATEWAY",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T06:12:18Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T06:17:31Z"
     },
     {
       "osmId": "way/1040992638",
@@ -84588,8 +84588,8 @@
       "evNetwork": "Blink Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T00:50:08Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T00:54:47Z"
     },
     {
       "osmId": "way/853821908",
@@ -85417,8 +85417,8 @@
       "evNetwork": "FCN",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T05:16:04Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T05:22:24Z"
     },
     {
       "osmId": "way/1225871598",
@@ -86021,8 +86021,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T01:36:53Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T01:33:07Z"
     },
     {
       "osmId": "node/8778086395",
@@ -86163,8 +86163,8 @@
       "evNetwork": "VIALYNK",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T05:58:59Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T06:04:52Z"
     },
     {
       "osmId": "way/197462167",
@@ -86206,8 +86206,8 @@
       "evNetwork": "CHARGESMART_EV",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T06:05:52Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T06:11:22Z"
     },
     {
       "osmId": "way/955262627",
@@ -86248,8 +86248,8 @@
       "evNetwork": "CHARGESMART_EV",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T06:05:04Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T06:10:34Z"
     },
     {
       "osmId": "way/891417655",
@@ -86390,8 +86390,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T01:07:54Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T01:03:58Z"
     },
     {
       "osmId": "way/425418736",
@@ -86572,8 +86572,8 @@
       "evNetwork": "CHARGESMART_EV",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T06:04:53Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T06:10:21Z"
     },
     {
       "osmId": "way/125571718",
@@ -86738,8 +86738,8 @@
       "evNetwork": "Tesla Destination, CHARGESMART_EV",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T06:05:24Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T06:10:55Z"
     },
     {
       "osmId": "way/1122078528",
@@ -86780,8 +86780,8 @@
       "evNetwork": "CHARGESMART_EV",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T06:05:48Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T06:11:19Z"
     },
     {
       "osmId": "way/1193789295",
@@ -86822,8 +86822,8 @@
       "evNetwork": "CHARGESMART_EV",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T06:06:01Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T06:11:31Z"
     },
     {
       "osmId": "node/8787581084",
@@ -86884,8 +86884,8 @@
       "evNetwork": "CHARGESMART_EV",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T06:05:52Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T06:11:23Z"
     },
     {
       "osmId": "way/769802286",
@@ -86986,8 +86986,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T04:08:03Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T04:14:02Z"
     },
     {
       "osmId": "way/61233552",
@@ -87008,8 +87008,8 @@
       "evNetwork": "CHARGESMART_EV",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T06:04:51Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T06:10:19Z"
     },
     {
       "osmId": "node/1141401943",
@@ -87030,8 +87030,8 @@
       "evNetwork": "VIALYNK",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T06:00:12Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T06:06:12Z"
     },
     {
       "osmId": "way/369948762",
@@ -87052,8 +87052,8 @@
       "evNetwork": "CHARGESMART_EV",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T06:05:53Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T06:11:23Z"
     },
     {
       "osmId": "way/465905568",
@@ -87134,8 +87134,8 @@
       "evNetwork": "VIALYNK",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T05:58:41Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T06:04:27Z"
     },
     {
       "osmId": "way/459186856",
@@ -87316,8 +87316,8 @@
       "evNetwork": "CHARGESMART_EV",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T06:04:48Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T06:10:16Z"
     },
     {
       "osmId": "way/116421821",
@@ -87458,8 +87458,8 @@
       "evNetwork": "CHARGESMART_EV",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T06:04:50Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T06:10:18Z"
     },
     {
       "osmId": "way/198951588",
@@ -87500,8 +87500,8 @@
       "evNetwork": "CHARGESMART_EV",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T06:05:21Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T06:10:52Z"
     },
     {
       "osmId": "way/325110813",
@@ -87644,8 +87644,8 @@
       "evNetwork": "CHARGESMART_EV",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T06:06:02Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T06:11:32Z"
     },
     {
       "osmId": "way/280642397",
@@ -87826,8 +87826,8 @@
       "evNetwork": "CHARGESMART_EV",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T06:05:25Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T06:10:56Z"
     },
     {
       "osmId": "way/117350673",
@@ -87848,8 +87848,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T04:06:12Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T04:12:05Z"
     },
     {
       "osmId": "way/304906669",
@@ -88054,8 +88054,8 @@
       "evNetwork": "Blink Network, ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T03:49:46Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T03:41:34Z"
     },
     {
       "osmId": "way/346898747",
@@ -88216,8 +88216,8 @@
       "evNetwork": "VIALYNK",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T06:00:12Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T06:06:12Z"
     },
     {
       "osmId": "way/1122086084",
@@ -88281,8 +88281,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T01:38:22Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T01:34:35Z"
     },
     {
       "osmId": "node/4097678679",
@@ -88304,8 +88304,8 @@
       "evNetwork": "Tesla Destination, CHARGESMART_EV",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T06:05:41Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T06:11:12Z"
     },
     {
       "osmId": "way/169187289",
@@ -88326,8 +88326,8 @@
       "evNetwork": "CHARGESMART_EV",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T06:05:15Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T06:10:45Z"
     },
     {
       "osmId": "way/224193686",
@@ -88430,8 +88430,8 @@
       "evNetwork": "CHARGESMART_EV",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T06:05:03Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T06:10:32Z"
     },
     {
       "osmId": "way/915207301",
@@ -88572,8 +88572,8 @@
       "evNetwork": "CHARGESMART_EV",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T06:05:49Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T06:11:20Z"
     },
     {
       "osmId": "way/1041409987",
@@ -88594,8 +88594,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T01:36:46Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T01:33:02Z"
     },
     {
       "osmId": "node/2418974004",
@@ -88617,8 +88617,8 @@
       "evNetwork": "CHARGESMART_EV",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T06:06:02Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T06:11:32Z"
     },
     {
       "osmId": "way/423930204",
@@ -88719,8 +88719,8 @@
       "evNetwork": "EV Connect",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T04:55:09Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T05:01:58Z"
     },
     {
       "osmId": "way/317463919",
@@ -88881,8 +88881,8 @@
       "evNetwork": "CHARGESMART_EV",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T06:05:13Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T06:10:43Z"
     },
     {
       "osmId": "way/809344878",
@@ -89264,8 +89264,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T02:03:40Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T01:56:43Z"
     },
     {
       "osmId": "node/9418529080",
@@ -90429,8 +90429,8 @@
       "evNetwork": "Blink Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T00:52:41Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T00:57:09Z"
     },
     {
       "osmId": "way/347401508",
@@ -90891,8 +90891,8 @@
       "evNetwork": "Blink Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T00:26:45Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T00:33:21Z"
     },
     {
       "osmId": "way/955296468",
@@ -90913,8 +90913,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T04:03:58Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T04:10:00Z"
     },
     {
       "osmId": "way/103111185",
@@ -92646,8 +92646,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T01:51:19Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T01:46:07Z"
     },
     {
       "osmId": "way/1112556495",
@@ -93590,8 +93590,8 @@
       "evNetwork": "EVCS",
       "evPricing": null,
       "evHours": null,
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T05:47:20Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T05:53:09Z"
     },
     {
       "osmId": "way/1123223644",
@@ -93877,8 +93877,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T03:34:24Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T03:26:51Z"
     },
     {
       "osmId": "way/677796852",
@@ -93980,8 +93980,8 @@
       "evNetwork": "Electrify America",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T04:44:55Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T04:51:37Z"
     },
     {
       "osmId": "node/4083193752",
@@ -94224,8 +94224,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T03:14:40Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T03:07:42Z"
     },
     {
       "osmId": "way/112437596",
@@ -95272,8 +95272,8 @@
       "evNetwork": "Blink Network",
       "evPricing": "Free",
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T00:37:31Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T00:43:23Z"
     },
     {
       "osmId": "way/560174321",
@@ -95334,8 +95334,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T03:09:35Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T03:02:47Z"
     },
     {
       "osmId": "way/634294963",
@@ -95356,8 +95356,8 @@
       "evNetwork": "CHARGELAB",
       "evPricing": null,
       "evHours": null,
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T06:57:38Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T07:04:04Z"
     },
     {
       "osmId": "node/8027649639",
@@ -95678,8 +95678,8 @@
       "evNetwork": "FCN",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T05:16:08Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T05:22:29Z"
     },
     {
       "osmId": "node/2066943630",
@@ -98133,8 +98133,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T02:52:07Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T02:46:26Z"
     },
     {
       "osmId": "way/411916110",
@@ -98195,8 +98195,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T02:41:29Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T02:36:11Z"
     },
     {
       "osmId": "way/682149706",
@@ -98880,8 +98880,8 @@
       "evNetwork": "Electrify America, Non-Networked, Tesla Destination",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T04:44:13Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T04:50:53Z"
     },
     {
       "osmId": "way/480956624",
@@ -99445,8 +99445,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T03:53:17Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T03:45:01Z"
     },
     {
       "osmId": "way/53275776",
@@ -101841,8 +101841,8 @@
       "evNetwork": "Blink Network",
       "evPricing": "Free",
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T00:05:26Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T00:14:36Z"
     },
     {
       "osmId": "way/955559445",
@@ -101906,8 +101906,8 @@
       "evNetwork": "ChargePoint Network, Tesla Destination",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T03:52:06Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T03:43:40Z"
     },
     {
       "osmId": "way/501260880",
@@ -101970,8 +101970,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T03:14:51Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T03:07:53Z"
     },
     {
       "osmId": "way/946722161",
@@ -101994,8 +101994,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T03:14:51Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T03:07:53Z"
     },
     {
       "osmId": "way/946722805",
@@ -102036,8 +102036,8 @@
       "evNetwork": "RIVIAN_WAYPOINTS",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T05:03:56Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T05:10:28Z"
     },
     {
       "osmId": "way/191776692",
@@ -103854,8 +103854,8 @@
       "evNetwork": "Blink Network",
       "evPricing": "Free",
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T00:39:05Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T00:44:52Z"
     },
     {
       "osmId": "way/706543238",
@@ -104016,8 +104016,8 @@
       "evNetwork": "Blink Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T00:49:01Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T00:53:50Z"
     },
     {
       "osmId": "way/568580656",
@@ -106146,8 +106146,8 @@
       "evNetwork": "ChargePoint Network, FLASH",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T01:45:43Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T01:41:40Z"
     },
     {
       "osmId": "relation/16702370",
@@ -110441,8 +110441,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T03:59:20Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T03:56:51Z"
     },
     {
       "osmId": "way/377457415",
@@ -110523,8 +110523,8 @@
       "evNetwork": "Blink Network",
       "evPricing": "Free",
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T00:48:30Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T00:53:24Z"
     },
     {
       "osmId": "way/924044167",
@@ -110545,8 +110545,8 @@
       "evNetwork": "Blink Network",
       "evPricing": "Free",
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T00:18:11Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T00:25:46Z"
     },
     {
       "osmId": "way/1144128774",
@@ -110647,8 +110647,8 @@
       "evNetwork": "Electrify America",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T04:43:35Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T04:50:10Z"
     },
     {
       "osmId": "way/388111037",
@@ -111701,8 +111701,8 @@
       "evNetwork": "GRAVITI_ENERGY",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T06:37:55Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T06:43:59Z"
     },
     {
       "osmId": "way/421585654",
@@ -113297,8 +113297,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T03:30:54Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T03:23:16Z"
     },
     {
       "osmId": "way/923753275",
@@ -114473,8 +114473,8 @@
       "evNetwork": "Blink Network",
       "evPricing": "Free",
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T00:53:49Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T00:58:11Z"
     },
     {
       "osmId": "way/317925961",
@@ -115166,8 +115166,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T02:52:41Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T02:47:02Z"
     },
     {
       "osmId": "way/760840681",
@@ -115955,8 +115955,8 @@
       "evNetwork": "NOODOE",
       "evPricing": null,
       "evHours": null,
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T05:48:19Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T05:54:09Z"
     },
     {
       "osmId": "way/1038906106",
@@ -116587,8 +116587,8 @@
       "evNetwork": "NOODOE",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T05:48:08Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T05:53:59Z"
     },
     {
       "osmId": "way/324977178",
@@ -116809,8 +116809,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T01:29:32Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T01:25:59Z"
     },
     {
       "osmId": "way/962699861",
@@ -117016,8 +117016,8 @@
       "evNetwork": "Blink Network",
       "evPricing": "Free",
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T00:46:43Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T00:51:51Z"
     },
     {
       "osmId": "way/28286305",
@@ -117604,8 +117604,8 @@
       "evNetwork": "Blink Network",
       "evPricing": "Free",
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T00:18:30Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T00:26:01Z"
     },
     {
       "osmId": "way/312289070",
@@ -118190,8 +118190,8 @@
       "evNetwork": "Electrify America",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T04:45:07Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T04:51:53Z"
     },
     {
       "osmId": "way/238688872",
@@ -118413,8 +118413,8 @@
       "evNetwork": "Electrify America",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T04:44:52Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T04:51:34Z"
     },
     {
       "osmId": "way/494372957",
@@ -121466,8 +121466,8 @@
       "evNetwork": "Tesla, FLO",
       "evPricing": null,
       "evHours": "24 hours daily. Please check Tesla's online station map to see if an adapter is required at this location.",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T05:20:10Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T05:26:28Z"
     },
     {
       "osmId": "way/561122763",
@@ -121753,8 +121753,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T02:39:22Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T02:34:06Z"
     },
     {
       "osmId": "way/610208334",
@@ -122597,8 +122597,8 @@
       "evNetwork": "Blink Network",
       "evPricing": "$0.00-$1.00/Hr Variable Parking Fee, $0.15/kWh Energy Fee",
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T00:51:25Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T00:56:01Z"
     },
     {
       "osmId": "way/647240593",
@@ -122719,8 +122719,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T02:07:21Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T01:59:46Z"
     },
     {
       "osmId": "way/571012565",
@@ -123584,8 +123584,8 @@
       "evNetwork": "ZEFNET",
       "evPricing": null,
       "evHours": null,
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T05:56:36Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T06:02:25Z"
     },
     {
       "osmId": "way/292731960",
@@ -125956,8 +125956,8 @@
       "evNetwork": "ChargePoint Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T03:58:05Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T03:49:45Z"
     },
     {
       "osmId": "way/723189684",
@@ -125998,8 +125998,8 @@
       "evNetwork": "EV Connect",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-05T04:58:42Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-06T05:05:39Z"
     },
     {
       "osmId": "node/11338260780",
@@ -126080,8 +126080,8 @@
       "evNetwork": "Blink Network",
       "evPricing": "Free",
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-06",
-      "evUpdatedAt": "2026-04-06T00:17:01Z"
+      "evLastConfirmed": "2026-04-07",
+      "evUpdatedAt": "2026-04-07T00:24:40Z"
     },
     {
       "osmId": "way/364661864",
@@ -126284,8 +126284,8 @@
       "evNetwork": "eVgo Network",
       "evPricing": null,
       "evHours": "24 hours daily",
-      "evLastConfirmed": "2026-04-05",
-      "evUpdatedAt": "2026-04-06T00:00:06Z"
+      "evLastConfirmed": "2026-04-06",
+      "evUpdatedAt": "2026-04-07T00:00:13Z"
     },
     {
       "osmId": "way/238532352",
