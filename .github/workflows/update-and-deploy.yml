@@ -6,6 +6,11 @@ on:
     - cron: '0 3 * * *'
   # Allow manual trigger from GitHub Actions UI
   workflow_dispatch:
+    inputs:
+      refresh:
+        description: 'Force refresh all caches (--refresh)'
+        type: boolean
+        default: false
   # Also deploy on pushes to main (data file changes trigger redeploy)
   push:
     branches: [main]
@@ -36,10 +41,47 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      - name: Get ISO week (for EV cache key)
+        id: week
+        run: echo "key=ev-stations-$(date -u '+%Y-W%V')" >> $GITHUB_OUTPUT
+
+      # EV station data is large (~25MB) — keep it in Actions cache, not git.
+      # Skip restore entirely when --refresh is requested so fresh data is fetched.
+      - name: Restore EV stations cache
+        if: inputs.refresh != true
+        uses: actions/cache@v4
+        with:
+          path: scripts/ev-cache.json
+          key: ${{ steps.week.outputs.key }}
+          restore-keys: ev-stations-
+
+      - name: Restore Overture cache
+        if: inputs.refresh != true
+        uses: actions/cache@v4
+        with:
+          path: scripts/overture-cache.json
+          key: overture-${{ steps.week.outputs.key }}
+          restore-keys: overture-
+
       - name: Fetch latest station data
         env:
           NLR_API_KEY: ${{ secrets.NLR_API_KEY }}
-        run: npm run fetch-stations
+        run: |
+          ARGS=""
+          if [ "${{ inputs.refresh }}" = "true" ]; then ARGS="-- --refresh"; fi
+          npm run fetch-stations $ARGS
+
+      - name: Save EV stations cache
+        uses: actions/cache/save@v4
+        with:
+          path: scripts/ev-cache.json
+          key: ${{ steps.week.outputs.key }}
+
+      - name: Save Overture cache
+        uses: actions/cache/save@v4
+        with:
+          path: scripts/overture-cache.json
+          key: overture-${{ steps.week.outputs.key }}
 
       - name: Check for data changes
         id: diff
@@ -48,12 +90,12 @@ jobs:
             && echo "changed=false" >> $GITHUB_OUTPUT \
             || echo "changed=true" >> $GITHUB_OUTPUT
 
-      - name: Commit updated data
+      - name: Commit updated data and caches
         if: steps.diff.outputs.changed == 'true'
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add public/data/stations.json
+          git add public/data/stations.json scripts/geocode-cache.json
           git commit -m "chore: update station data [$(date -u '+%Y-%m-%d')]"
           git push
 

@@ -3,3 +3,5 @@ dist/
 .env
 .env.local
 *.local
+scripts/ev-cache.json
+scripts/overture-cache.json

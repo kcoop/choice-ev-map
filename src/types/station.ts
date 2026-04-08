@@ -34,6 +34,7 @@ export interface Hotel {
   zip: string;
   lat: number;
   lng: number;
+  country: string;
   hasEV: boolean;
   l2Ports: number;
   dcFastPorts: number;
@@ -43,6 +44,7 @@ export interface Hotel {
   evHours: string | null;
   evLastConfirmed: string | null;
   evUpdatedAt: string | null;
+  website: string | null;
 }
 
 export interface HotelsData {
@@ -69,12 +71,16 @@ export const CHOICE_BRANDS: { keyword: string; label: string }[] = [
   { keyword: 'econo lodge', label: 'Econo Lodge' },
   { keyword: 'rodeway', label: 'Rodeway Inn' },
   { keyword: 'ascend collection', label: 'Ascend Collection' },
+  { keyword: 'ascend hotel', label: 'Ascend Collection' },
+  { keyword: 'everhome', label: 'Everhome' },
   { keyword: 'radisson blu', label: 'Radisson Blu' },
   { keyword: 'radisson red', label: 'Radisson Red' },
   { keyword: 'radisson individuals', label: 'Radisson Individuals' },
   { keyword: 'park inn', label: 'Park Inn by Radisson' },
   { keyword: 'country inn', label: 'Country Inn & Suites' },
   { keyword: 'radisson', label: 'Radisson' },
+  { keyword: 'nordic choice', label: 'Strawberry' },
+  { keyword: 'strawberry', label: 'Strawberry' },
 ];
 
 export function detectBrand(name: string): string | null {

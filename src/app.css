@@ -562,8 +562,12 @@ html, body, #root {
 }
 .ev-popup-table td:last-child { color: #c8cad4; }
 
-.ev-popup-directions {
-  display: block;
+.ev-popup-actions {
+  display: flex;
+  gap: 8px;
+}
+.ev-popup-action-btn {
+  flex: 1;
   text-align: center;
   background: rgba(34,197,94,0.12);
   border: 1px solid rgba(34,197,94,0.3);
@@ -575,7 +579,7 @@ html, body, #root {
   text-decoration: none;
   transition: all 150ms ease;
 }
-.ev-popup-directions:hover {
+.ev-popup-action-btn:hover {
   background: rgba(34,197,94,0.2);
   border-color: rgba(34,197,94,0.5);
 }

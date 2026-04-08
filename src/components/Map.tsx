@@ -26,10 +26,19 @@ const BRAND_COLORS: Record<string, string> = {
   'MainStay Suites': '#0078a0',
   'WoodSpring Suites': '#4e7a38',
   'Ascend Collection': '#333333',
+  'Everhome': '#2d6a4f',
+  'Strawberry': '#e63946',
 };
 
 function brandColor(brand: string): string {
   return BRAND_COLORS[brand] ?? '#2563eb';
+}
+
+function hotelUrl(h: Hotel): string {
+  const q = encodeURIComponent(
+    [h.name, h.address, h.city, h.state, h.zip].filter(Boolean).join(' ')
+  );
+  return `https://duckduckgo.com/?q=${q}`;
 }
 
 function makeIcon(brand: string, hasEV: boolean): L.DivIcon {
@@ -63,9 +72,12 @@ function makeIcon(brand: string, hasEV: boolean): L.DivIcon {
 
 function popupHtml(h: Hotel): string {
   const color = h.hasEV ? brandColor(h.brand) : '#4a4f5e';
-  const addressLine = [h.address, h.city, h.state && h.zip ? `${h.state} ${h.zip}` : h.state || h.zip]
-    .filter(Boolean)
-    .join(', ') || `${h.lat.toFixed(4)}, ${h.lng.toFixed(4)}`;
+  const addressLine = [
+    h.address,
+    h.city,
+    h.state && h.zip ? `${h.state} ${h.zip}` : h.state || h.zip,
+    h.country && h.country !== 'US' ? h.country : '',
+  ].filter(Boolean).join(', ') || `${h.lat.toFixed(4)}, ${h.lng.toFixed(4)}`;
   const mapsQuery = h.address
     ? encodeURIComponent(`${h.name}, ${h.address}, ${h.city}, ${h.state} ${h.zip}`)
     : encodeURIComponent(`${h.name} ${h.lat},${h.lng}`);
@@ -81,7 +93,7 @@ function popupHtml(h: Hotel): string {
       ${h.evLastConfirmed ? `<tr><td>Confirmed</td><td>${timeSince(h.evLastConfirmed)}</td></tr>` : ''}
       ${h.evUpdatedAt ? `<tr><td>Updated</td><td>${timeSince(h.evUpdatedAt)}</td></tr>` : ''}
     </table>` : `
-    <div class="ev-popup-no-ev">No EV charging on record</div>`;
+    <div class="ev-popup-no-ev">${h.country && h.country !== 'US' ? 'EV data only available for US properties' : 'No EV charging on record'}</div>`;
 
   return `
     <div class="ev-popup">
@@ -92,9 +104,11 @@ function popupHtml(h: Hotel): string {
         <div class="ev-popup-name">${h.name}</div>
         <div class="ev-popup-addr">${addressLine}</div>
         ${evSection}
-        <a class="ev-popup-directions" href="https://maps.google.com/?q=${mapsQuery}" target="_blank" rel="noopener">
-          ↗ Get Directions
-        </a>
+        <div class="ev-popup-actions">
+          ${h.website ? `<a class="ev-popup-action-btn" href="${h.website}" target="_blank" rel="noopener">🌐 Website</a>` : ''}
+          <a class="ev-popup-action-btn" href="${hotelUrl(h)}" target="_blank" rel="noopener">🔍 Search Web</a>
+          <a class="ev-popup-action-btn" href="https://maps.apple.com/?q=${mapsQuery}" target="_blank" rel="noopener">↗ Directions</a>
+        </div>
       </div>
     </div>`;
 }

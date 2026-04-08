@@ -11,11 +11,11 @@ export interface BrandTier {
 export const BRAND_TIERS: BrandTier[] = [
   {
     label: 'Upper Upscale',
-    brands: ['Cambria', 'Radisson Blu', 'Radisson Red', 'Radisson Individuals', 'Ascend Collection'],
+    brands: ['Cambria', 'Radisson Blu', 'Radisson Red', 'Radisson Individuals', 'Ascend Collection', 'Strawberry'],
   },
   {
     label: 'Upscale',
-    brands: ['Radisson', 'Country Inn & Suites', 'Park Inn by Radisson', 'Clarion'],
+    brands: ['Radisson', 'Country Inn & Suites', 'Park Inn by Radisson', 'Clarion', 'Everhome'],
   },
   {
     label: 'Midscale',
