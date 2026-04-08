@@ -19123,5 +19123,33 @@
     "state": "",
     "zip": "700",
     "country": "FO"
+  },
+  "37.742234,-25.670076": {
+    "address": "50 Rua Doutor Bruno Tavares Carreiro",
+    "city": "Ponta Delgada",
+    "state": "",
+    "zip": "9500-055",
+    "country": "PT"
+  },
+  "59.922020,10.751766": {
+    "address": "Gerd Kjølaas' plass",
+    "city": "Oslo",
+    "state": "",
+    "zip": "0178",
+    "country": "NO"
+  },
+  "59.331275,18.045360": {
+    "address": "31 Kungsholmsgatan",
+    "city": "Stockholm",
+    "state": "",
+    "zip": "112 28",
+    "country": "SE"
+  },
+  "36.143676,137.251222": {
+    "address": "高山停車場線",
+    "city": "高山市",
+    "state": "",
+    "zip": "506-0009",
+    "country": "JP"
   }
 }
