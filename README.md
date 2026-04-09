@@ -2,7 +2,7 @@
 
 An offline-capable React/TypeScript map of Choice Hotels worldwide with EV charging, hosted on GitHub Pages. Hotel locations are sourced from **Overture Maps** (open map data) and matched to EV stations from the **NLR Alternative Fuel Stations API** (a free US government API). Data is refreshed nightly and committed as a static JSON file.
 
-![Screenshot](docs/screenshot.png)
+![Screenshot](screenshot.png)
 
 ## Features
 
