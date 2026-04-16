@@ -19151,5 +19151,285 @@
     "state": "",
     "zip": "506-0009",
     "country": "JP"
+  },
+  "19.770443,-70.644814": {
+    "address": "",
+    "city": "Puerto Plata",
+    "state": "Puerto Plata",
+    "zip": "",
+    "country": "DO"
+  },
+  "36.599363,-6.224289": {
+    "address": "Calle Curva",
+    "city": "El Puerto de Santa María",
+    "state": "Andalucía",
+    "zip": "11500",
+    "country": "ES"
+  },
+  "34.441385,35.822081": {
+    "address": "تقاطع طرابلس 2",
+    "city": "الميناء",
+    "state": "محافظة الشمال",
+    "zip": "1301",
+    "country": "LB"
+  },
+  "31.520981,74.339839": {
+    "address": "",
+    "city": "ماڈل ٹاون",
+    "state": "پنجاب",
+    "zip": "57760",
+    "country": "PK"
+  },
+  "52.094819,5.121110": {
+    "address": "51 Jansveld",
+    "city": "Utrecht",
+    "state": "Utrecht",
+    "zip": "3512 BE",
+    "country": "NL"
+  },
+  "50.768778,15.061438": {
+    "address": "126/3 Gutenbergova",
+    "city": "Liberec",
+    "state": "Liberecký kraj",
+    "zip": "460 05",
+    "country": "CZ"
+  },
+  "55.607693,12.994360": {
+    "address": "2 Dag Hammarskjölds torg",
+    "city": "Malmö",
+    "state": "",
+    "zip": "211 21",
+    "country": "SE"
+  },
+  "57.719287,12.936899": {
+    "address": "Viskanpromenaden",
+    "city": "Borås",
+    "state": "",
+    "zip": "503 38",
+    "country": "SE"
+  },
+  "56.167009,15.590462": {
+    "address": "2 Skeppsbrokajen",
+    "city": "Karlskrona",
+    "state": "",
+    "zip": "371 33",
+    "country": "SE"
+  },
+  "62.392904,17.304360": {
+    "address": "9 Skepparegatan",
+    "city": "Sundsvall",
+    "state": "",
+    "zip": "852 34",
+    "country": "SE"
+  },
+  "8.941136,-79.555746": {
+    "address": "Calle Bahía",
+    "city": "Ancón",
+    "state": "Provincia de Panamá",
+    "zip": "0843",
+    "country": "PA"
+  },
+  "8.577395,-79.789301": {
+    "address": "",
+    "city": "",
+    "state": "Panamá Oeste",
+    "zip": "",
+    "country": "PA"
+  },
+  "48.881181,2.327771": {
+    "address": "7 Rue de Parme",
+    "city": "Paris",
+    "state": "Île-de-France",
+    "zip": "75009",
+    "country": "FR"
+  },
+  "8.740920,76.699540": {
+    "address": "Cliff 2nd street",
+    "city": "Varkala",
+    "state": "Kerala",
+    "zip": "695311",
+    "country": "IN"
+  },
+  "33.645472,73.083560": {
+    "address": "Qadimi Masjid Wali Gali",
+    "city": "چاہ سلطان",
+    "state": "پنجاب",
+    "zip": "46300",
+    "country": "PK"
+  },
+  "63.432054,10.395715": {
+    "address": "26 Dronningens gate",
+    "city": "Trondheim",
+    "state": "",
+    "zip": "7011",
+    "country": "NO"
+  },
+  "63.430820,10.392538": {
+    "address": "Kongens gate",
+    "city": "Trondheim",
+    "state": "",
+    "zip": "7011",
+    "country": "NO"
+  },
+  "59.332092,18.056642": {
+    "address": "Vasaplan",
+    "city": "Stockholm",
+    "state": "",
+    "zip": "111 20",
+    "country": "SE"
+  },
+  "19.183023,-96.124873": {
+    "address": "Calle Fray Bartolomé de las Casas",
+    "city": "Veracruz",
+    "state": "Veracruz",
+    "zip": "91910",
+    "country": "MX"
+  },
+  "19.182990,-96.125070": {
+    "address": "Calle Fray Bartolomé de las Casas",
+    "city": "Veracruz",
+    "state": "Veracruz",
+    "zip": "91910",
+    "country": "MX"
+  },
+  "29.086890,-111.058060": {
+    "address": "Carretera Hermosillo - Bahía de Kino",
+    "city": "Hermosillo",
+    "state": "Sonora",
+    "zip": "83220",
+    "country": "MX"
+  },
+  "31.700410,-106.402930": {
+    "address": "Calle Antonio J. Bermúdez",
+    "city": "Ciudad Juárez",
+    "state": "Chihuahua",
+    "zip": "32319",
+    "country": "MX"
+  },
+  "36.985405,-85.934572": {
+    "address": "210 Cavalry Drive",
+    "city": "Glasgow",
+    "state": "KY",
+    "zip": "42141",
+    "country": "US"
+  },
+  "10.464096,-75.502927": {
+    "address": "Vía al Mar",
+    "city": "Cartagena de Indias",
+    "state": "Bolívar",
+    "zip": "130002",
+    "country": "CO"
+  },
+  "49.336380,0.079950": {
+    "address": "13 Rue de la Mare",
+    "city": "Saint-Arnoult",
+    "state": "Normandie",
+    "zip": "14800",
+    "country": "FR"
+  },
+  "27.691851,68.854361": {
+    "address": "",
+    "city": "سکھر",
+    "state": "",
+    "zip": "65200",
+    "country": "PK"
+  },
+  "-8.767979,148.241857": {
+    "address": "",
+    "city": "Popondetta",
+    "state": "Oro",
+    "zip": "",
+    "country": "PG"
+  },
+  "58.336578,8.574106": {
+    "address": "Terje Løvås vei",
+    "city": "Grimstad",
+    "state": "",
+    "zip": "4877",
+    "country": "NO"
+  },
+  "56.046463,12.694611": {
+    "address": "8-12 Stortorget",
+    "city": "Helsingborg",
+    "state": "",
+    "zip": "252 20",
+    "country": "SE"
+  },
+  "59.270384,15.213866": {
+    "address": "14 Kungsgatan",
+    "city": "Örebro",
+    "state": "",
+    "zip": "702 11",
+    "country": "SE"
+  },
+  "19.287130,-99.627358": {
+    "address": "Avenida Paseo Tollocan",
+    "city": "Toluca",
+    "state": "Estado de México",
+    "zip": "50160",
+    "country": "MX"
+  },
+  "-34.469000,-57.848450": {
+    "address": "288 Washington Barbot",
+    "city": "Colonia del Sacramento",
+    "state": "Colonia",
+    "zip": "70000",
+    "country": "UY"
+  },
+  "10.651861,-61.515219": {
+    "address": "Wrightson Road",
+    "city": "Port of Spain",
+    "state": "",
+    "zip": "100623",
+    "country": "TT"
+  },
+  "42.558383,-6.609629": {
+    "address": "Calle Ronda Norte",
+    "city": "Ponferrada",
+    "state": "Castilla y León",
+    "zip": "24400",
+    "country": "ES"
+  },
+  "9.932744,76.261877": {
+    "address": "Kochupally Road",
+    "city": "Kochi",
+    "state": "Kerala",
+    "zip": "682005",
+    "country": "IN"
+  },
+  "16.807661,96.142414": {
+    "address": "4 ရွှေလီလမ်း",
+    "city": "ရန်ကုန်",
+    "state": "ရန်ကုန်တိုင်းဒေသကြီး",
+    "zip": "22222",
+    "country": "MM"
+  },
+  "63.467983,10.920761": {
+    "address": "20 Kjøpmannsgata",
+    "city": "Stjørdal",
+    "state": "",
+    "zip": "7500",
+    "country": "NO"
+  },
+  "60.077116,11.158994": {
+    "address": "Væringsvegen",
+    "city": "Kløfta",
+    "state": "",
+    "zip": "2040",
+    "country": "NO"
+  },
+  "57.691362,11.995628": {
+    "address": "Lisebergsgatan",
+    "city": "Göteborg",
+    "state": "",
+    "zip": "400 20",
+    "country": "SE"
+  },
+  "57.712041,11.946488": {
+    "address": "1 Pumpgatan",
+    "city": "Göteborg",
+    "state": "",
+    "zip": "417 55",
+    "country": "SE"
   }
 }
