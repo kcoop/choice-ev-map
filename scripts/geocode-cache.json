@@ -19431,5 +19431,117 @@
     "state": "",
     "zip": "417 55",
     "country": "SE"
+  },
+  "8.732855,76.706369": {
+    "address": "Temple Road",
+    "city": "Varkala",
+    "state": "Kerala",
+    "zip": "695311",
+    "country": "IN"
+  },
+  "57.719277,12.936615": {
+    "address": "Viskanpromenaden",
+    "city": "Borås",
+    "state": "",
+    "zip": "503 38",
+    "country": "SE"
+  },
+  "25.395379,-101.020104": {
+    "address": "Calle Monterrey",
+    "city": "Saltillo",
+    "state": "Coahuila",
+    "zip": "25088",
+    "country": "MX"
+  },
+  "48.877460,2.114903": {
+    "address": "Avenue Simon Vouet",
+    "city": "Le Port-Marly",
+    "state": "Île-de-France",
+    "zip": "78560",
+    "country": "FR"
+  },
+  "45.808853,15.980350": {
+    "address": "51 Petrinjska ulica",
+    "city": "Grad Zagreb",
+    "state": "",
+    "zip": "10130",
+    "country": "HR"
+  },
+  "57.709811,11.939341": {
+    "address": "Karlavagnstorget",
+    "city": "Göteborg",
+    "state": "",
+    "zip": "402 71",
+    "country": "SE"
+  },
+  "59.333038,18.054422": {
+    "address": "Kungsbron",
+    "city": "Stockholm",
+    "state": "",
+    "zip": "111 64",
+    "country": "SE"
+  },
+  "56.957161,24.114564": {
+    "address": "23 Krišjāņa Valdemāra iela",
+    "city": "Rīga",
+    "state": "",
+    "zip": "LV-1010",
+    "country": "LV"
+  },
+  "8.577390,-79.789210": {
+    "address": "",
+    "city": "",
+    "state": "Panamá Oeste",
+    "zip": "",
+    "country": "PA"
+  },
+  "10.464470,-75.503018": {
+    "address": "Vía al Mar",
+    "city": "Cartagena de Indias",
+    "state": "Bolívar",
+    "zip": "130002",
+    "country": "CO"
+  },
+  "51.529100,-0.123000": {
+    "address": "45-46 Argyle Square",
+    "city": "Greater London",
+    "state": "England",
+    "zip": "WC1H 8AL",
+    "country": "GB"
+  },
+  "27.311310,88.594040": {
+    "address": "NH10",
+    "city": "Gangtok",
+    "state": "Sikkim",
+    "zip": "737101",
+    "country": "IN"
+  },
+  "60.192878,11.069725": {
+    "address": "15 Hans Gaarders veg",
+    "city": "Ullensaker",
+    "state": "",
+    "zip": "2060",
+    "country": "NO"
+  },
+  "62.392966,17.304618": {
+    "address": "9 Skepparegatan",
+    "city": "Sundsvall",
+    "state": "",
+    "zip": "852 34",
+    "country": "SE"
+  },
+  "62.392901,17.304244": {
+    "address": "9 Skepparegatan",
+    "city": "Sundsvall",
+    "state": "",
+    "zip": "852 34",
+    "country": "SE"
+  },
+  "14.075953,-87.199378": {
+    "address": "Bulevar Fuerzas Armadas",
+    "city": "Tegucigalpa",
+    "state": "Francisco Morazán",
+    "zip": "11100",
+    "country": "HN"
   }
 }
